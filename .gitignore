@@ -1,0 +1,22 @@
+# Sensitive
+.env
+*.key
+*.pem
+credentials*
+
+# Claude config
+.claude/
+
+# Build artifacts
+*.py
+*.sit
+*.zip
+*.exe
+*.compressed
+*.txt
+*.json
+*.m
+*.h
+*.img
+MousePractice.html
+MinivMac/
